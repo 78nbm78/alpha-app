@@ -3,7 +3,7 @@ import AkseMan from "@/public/images/my-image.jpg"
 
 function HomePage() {
   return (
-    <div className="h-screen bg-blue-950 text-white flex items-center justify-center flex-col">
+    <div className="h-screen bg-rose-950 text-white flex items-center justify-center flex-col">
       <h1 className="text-3xl font-bold mb-3">
         سلام به بچه های کلاس!
       </h1>
